@@ -1,0 +1,17 @@
+C:\Users\uberh\Desktop\cs120\Brick Blast\bin\Debug\Brick Blast.exe.config
+C:\Users\uberh\Desktop\cs120\Brick Blast\bin\Debug\Brick Blast.exe
+C:\Users\uberh\Desktop\cs120\Brick Blast\bin\Debug\Brick Blast.pdb
+C:\Users\uberh\Desktop\cs120\Brick Blast\bin\Debug\Brick Blast.xml
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.vbproj.AssemblyReference.cache
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\MainWindow.g.vb
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Application.g.vb
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast_MarkupCompile.cache
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast_MarkupCompile.lref
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\MainWindow.baml
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.g.resources
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick_Blast.Resources.resources
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.vbproj.GenerateResource.cache
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.vbproj.CoreCompileInputs.cache
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.exe
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.xml
+C:\Users\uberh\Desktop\cs120\Brick Blast\obj\Debug\Brick Blast.pdb
